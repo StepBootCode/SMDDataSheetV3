@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">SMD DataSheet</string>
+
+    <!-- Strings related to Navigator panel -->
+    <string name="navigation_drawer_open">Открыть панель навигации</string>
+    <string name="navigation_drawer_close">Закрыть панель навигации</string>
+    <string name="nav_header_title">База данных SMD DataSheet</string>
+    <string name="nav_header_subtitle">www.bootcode.ru</string>
+    <string name="nav_header_desc">База данных SMD DataSheet</string>
+
+
+    <!-- Strings related to Menu -->
+    <string name="menu_home">Домой</string>
+    <string name="menu_favorite">Избранное</string>
+    <string name="menu_database">Редактор базы данных</string>
+    <string name="menu_add">Добавить SMD</string>
+    <string name="menu_tools">Открыть настройки</string>
+    <string name="menu_update">Обновить</string>
+    <string name="menu_edit">Редактировать</string>
+
+
+    <string name="menu_bootcode">bootcode.ru</string>
+    <string name="button_search">Найти</string>
+    <string name="tv_marker">Маркировка:</string>
+    <string name="tv_name">Код(название):</string>
+    <string name="tv_note">Назначение:</string>
+    <string name="tv_code">Корпус:</string>
+    <string name="button_open">Открыть</string>
+    <string name="menu_settings">Настройки</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_title_system_sync_settings">Синхронизировать настройки</string>
+    <string name="pref_title_local">База данных на русском</string>
+    <string name="pref_description_local">Необходим перезапуск прложения</string>
+    <string name="pref_title_cache">Кешировать datasheets</string>
+    <string name="pref_description_cache">Кешировать DataSheet в каталог</string>
+    <string name="pref_title_datasheet_save_path">Каталог хранения DataSteet`ов</string>
+    <string name="pref_search">Поиск (по умолчанию: по маркировке)</string>
+    <string name="pref_search_by_name">Искать по наименованию</string>
+    <string name="pref_search_by_function">Искать по функционалу</string>
+
+    <!-- Strings related to Toast and messages -->
+    <string name="toast_copy_succes">База данных скопирована!</string>
+    <string name="toast_copy_error">Ошибка копирования базы данных!</string>
+    <string name="toast_pdf_not_install">Не установлен PDF Reader!</string>
+    <string name="toast_smd_not_found">Информация о SMD не найдена</string>
+    <string name="button_save_smd">Сохранить SMD</string>
+    <string name="toast_not_filled_name">Не заполненное поле «Имя»</string>
+    <string name="toast_not_filled_label">Не заполненное поле «Метка»</string>
+    <string name="toast_not_filled_func">Не заполненное поле «Назначение»</string>
+    <string name="toast_not_filled_body">Не заполненное поле «Корпус»</string>
+    <string name="toast_not_pdf_file">PDF файл не найден</string>
+    <string name="toast_success_add_favorites">Успешное добавление в избранное</string>
+    <string name="toast_success_remove_favorites">Успешное удаление из избранного</string>
+    <string name="tv_prod">Производитель:</string>
+    <string name="dialog_find">Поиск SMD производится по маркировке. Вы можете включить дополнительные поля поиска в настройках</string>
+    <string name="text_default">---</string>
+    <string name="text_none">None</string>
+    <string name="toast_update_not_found">Обновления не найдены</string>
+    <string name="pref_title_cache_settings">Настройки кеширования</string>
+    <string name="pref_title_cache_summ">Для локального просмотра DataSheet вам необходимо установить программу просмотра PDF</string>
+    <string name="menu_googlepdf">Установить PDF Viewer</string>
+</resources>

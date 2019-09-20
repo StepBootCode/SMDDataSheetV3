@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SMD DataSheet</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SMD DataSheet database</string>
+    <string name="nav_header_subtitle">www.bootcode.ru</string>
+    <string name="nav_header_desc">SMD DataSheet database</string>
+
+
+    <!-- Strings related to Menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorites</string>
+    <string name="menu_database">Database editor</string>
+    <string name="menu_add">Add new SMD</string>
+    <string name="menu_tools">Settings</string>
+    <string name="menu_update">Update</string>
+    <string name="menu_edit">Edit</string>
+    <string name="menu_bootcode">bootcode.ru</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="button_search">Search</string>
+
+    <string name="tv_marker">Label:</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_note">Function:</string>
+    <string name="tv_code">Body:</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_title_local">Enable RU loc.</string>
+    <string name="pref_description_local">You need to restart the application</string>
+    <string name="pref_title_cache">Cache datasheets</string>
+    <string name="pref_description_cache">Cache DataSheets into directory</string>
+    <string name="pref_title_datasheet_save_path">DataSheets cavhe path</string>
+    <string name="pref_search">Search (default: by labeling)</string>
+    <string name="pref_search_by_name">Search by name</string>
+    <string name="pref_search_by_function">Search by function</string>
+
+    <!-- Strings related to Toast and messages -->
+    <string name="toast_copy_succes">Copy database succes!</string>
+    <string name="toast_copy_error">Copy data error!</string>
+    <string name="toast_pdf_not_install">No PDF Viewer Installed</string>
+    <string name="toast_smd_not_found">Information by SMD not found</string>
+    <string name="button_save_smd">Save SMD</string>
+    <string name="toast_not_filled_name">Not filled \"Name\" field</string>
+    <string name="toast_not_filled_label">Not filled \"Label\" field</string>
+    <string name="toast_not_filled_body">Not filled \"Body\" field</string>
+    <string name="toast_not_filled_func">Not filled \"Function\" field</string>
+    <string name="toast_not_pdf_file">PDF file not found</string>
+    <string name="toast_success_add_favorites">Successful add to favorites</string>
+    <string name="toast_success_remove_favorites">Successful remove to favorites</string>
+    <string name="button_open">Open</string>
+    <string name="tv_prod">Producer:</string>
+    <string name="dialog_find">SMD components are searched by labeling. You can enable additional search fields in the settings</string>
+    <string name="text_default">---</string>
+    <string name="text_none">None</string>
+    <string name="toast_update_not_found">Updates not found</string>
+    <string name="pref_title_cache_settings">Cache settings</string>
+    <string name="pref_title_cache_summ">To view DataSheet locally, you need to install a PDF viewer</string>
+    <string name="menu_googlepdf">Install PDF Viewer</string>
+
+    <string name="title_activity_fullscreen_pdfviewer">FullscreenPDFViewer</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
